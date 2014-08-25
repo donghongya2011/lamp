@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jackdong/workspace"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jackdong/Free-Workspace"
+		}
+	]
+}
